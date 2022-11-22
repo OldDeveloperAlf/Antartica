@@ -1,0 +1,44 @@
+name: Antartica
+author: Criminal
+version: '${project.version}'
+main: wtf.myles.hcfcore.Main
+commands:
+   teleport:
+    aliases: [tp]
+   teleporthere:
+    aliases: [tphere]
+   teleportposition:
+    aliases: [tppos, tpposition]
+   broadcast:
+    aliases: [bc, bcast]
+   clearchat:
+    aliases: [cc, cchat]
+   staff:
+   am:
+    aliases: [automessage, amessage]
+   mutechat:
+    aliases: [mc, chatmute]
+   slowchat:
+    aliases: [chatslow]
+   staffchat:
+    aliases: [sc]
+   spawnmob:
+    aliases: [sm, mobspawn, smob, mobs]
+   throwblock:
+    aliases: [tb, blockthrow]
+   clearinventory:
+    aliases: [ci, clear, cleari, inventoryclear, iclear]
+   weather:
+   nameitem:
+    aliases: [itemname]
+   message:
+    aliases: [msg, tell]
+   reply:
+    aliases: [r]
+   lol:
+   commandspy:
+    aliases: [cs]
+   setspawn:
+   setstaff:
+   alerts:
+   removestaff:
